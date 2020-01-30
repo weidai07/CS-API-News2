@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/obj/Debug/netcoreapp2.2/CS-API-Authorization.csprojAssemblyReference.cache
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/obj/Debug/netcoreapp2.2/CS-API-Authorization.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/obj/Debug/netcoreapp2.2/CS-API-Authorization.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/obj/Debug/netcoreapp2.2/CS-API-Authorization.AssemblyInfo.cs
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/bin/Debug/netcoreapp2.2/CS-API-Authorization.deps.json
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/bin/Debug/netcoreapp2.2/CS-API-Authorization.runtimeconfig.json
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/bin/Debug/netcoreapp2.2/CS-API-Authorization.runtimeconfig.dev.json
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/bin/Debug/netcoreapp2.2/CS-API-Authorization.dll
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/bin/Debug/netcoreapp2.2/CS-API-Authorization.pdb
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/obj/Debug/netcoreapp2.2/CS-API-Authorization.dll
+/Users/Guest/Desktop/CS-API-New-With-Authorization/CS-API-Authorization/obj/Debug/netcoreapp2.2/CS-API-Authorization.pdb

@@ -1,0 +1,15 @@
+<h1>All TopStorys:</h1>
+
+<ol>
+@foreach (TopStory TopStory in Model)
+{
+    <ul>
+        <li>Section: @TopStory.Section</li>
+        <li>Title: @TopStory.Title</li>
+        <li>Abstract: @TopStory.Abstract)</li>
+        <li>Url: @TopStory.Url)</li>
+        <li>Byline: @TopStory.Byline)</li>
+    </ul>
+    <br>
+}
+</ol>
